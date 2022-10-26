@@ -1,0 +1,9 @@
+body {font-family: 'Lobster', cursive;}
+
+.headings { color: navy; text-align: center; }
+
+p { color: white; text-align: center; font-size:20px; }
+
+#mycities { color: red; text-align: center; font-size:50px; background-color: green; display: inline-block; }
+
+.city { color: white; text-align: center; font-size:30px; padding-bottom: 20px; padding-top: 20px; padding-left: 20px; padding-right: 20px; background-color: red; display: inline-block; }
